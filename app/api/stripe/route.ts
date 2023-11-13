@@ -47,7 +47,7 @@ export async function GET() {
                             name: 'Open AI buddy',
                             description: 'Unlimited AI Generations'
                         },
-                        unit_amount: 2000,
+                        unit_amount: 50000,
                         recurring: {
                             interval: "month"
                         }
